@@ -1,2 +1,5 @@
 streamlit
 ibm-watson-machine-learning
+wget
+langchain
+langchain_ibm
