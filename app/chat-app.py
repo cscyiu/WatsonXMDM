@@ -4,7 +4,7 @@ import json
 import os
 
 st.title('IBM Data and AI: MDM and watsonx.ai Demo 🤖')
-st.caption("😹 A chatbot powered by watsonx.ai")
+st.caption("🚀 A chatbot powered by watsonx.ai")
 
 with st.sidebar:
     watsonx_api_key = st.text_input("Watsonx API Key", key="watsonx_api_key", value=os.environ.get("API_KEY"), type="password")
