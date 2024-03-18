@@ -25,8 +25,8 @@ else :
         "apikey" : watsonx_api_key
     }
     params = json.loads(watsonx_model_params)      
-    #project_id  = os.environ.get("PROJECT_ID")
-    project_id  = watsonx_project_id
+    project_id  = os.environ.get("PROJECT_ID")
+    #project_id  = watsonx_project_id
     space_id    = None
     verify      = False
     model = Model( watsonx_model, my_credentials, params, project_id, space_id, verify )   
