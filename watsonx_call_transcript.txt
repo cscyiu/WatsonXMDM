@@ -1,0 +1,1185 @@
+WEBVTT
+
+1efde017-7f19-43e7-a209-eb10531b4a45/23-0
+00:00:03.722 --> 00:00:07.278
+<v Haneen Bakbak>Transcription as oh Oh no,
+transcription happens while</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/23-1
+00:00:07.278 --> 00:00:09.282
+<v Haneen Bakbak>you're recording automatically.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/29-0
+00:00:11.462 --> 00:00:13.702
+<v Haneen Bakbak>Oh, I see the transcription
+actually.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/33-0
+00:00:14.542 --> 00:00:16.302
+<v Chris Yiu>Yeah. So everybody have to.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/49-0
+00:00:17.702 --> 00:00:21.910
+<v Chris Yiu>Unmute and unmute or something
+because there's the the consent</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/49-1
+00:00:21.910 --> 00:00:24.982
+<v Chris Yiu>right one. Someone starts
+recording in teams.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/62-0
+00:00:26.482 --> 00:00:29.111
+<v Chris Yiu>It's gonna force everyone to
+unshare and share again and</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/62-1
+00:00:29.111 --> 00:00:31.002
+<v Chris Yiu>acknowledge that they're being
+recorded.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/64-0
+00:00:30.992 --> 00:00:32.472
+<v Haneen Bakbak>Yeah, yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/75-0
+00:00:32.862 --> 00:00:36.462
+<v Chris Yiu>I just done that. I am muted,
+muted myself. Unmute it in.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/74-0
+00:00:35.142 --> 00:00:35.982
+<v Dan Lewis>I did that too.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/81-0
+00:00:38.112 --> 00:00:42.712
+<v Chris Yiu>So let the transcription. Oh,
+alright. What a next step.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/87-0
+00:00:43.512 --> 00:00:45.872
+<v Chris Yiu>Let's talk something about the
+captain and try to.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/91-0
+00:00:47.242 --> 00:00:47.922
+<v Chris Yiu>Get the.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/92-0
+00:00:47.242 --> 00:00:48.402
+<v Haneen Bakbak>Next steps.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/100-0
+00:00:52.652 --> 00:00:54.292
+<v Haneen Bakbak>I'm just thinking about next
+steps.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/158-0
+00:00:53.052 --> 00:00:57.070
+<v Chris Yiu>Oh, how how about? Yeah, let.
+Let's. OK. I'm. I'm just gonna</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/115-0
+00:00:57.022 --> 00:00:58.782
+<v Haneen Bakbak>I feel like, yeah, go ahead.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/158-1
+00:00:57.070 --> 00:01:01.088
+<v Chris Yiu>say something. Let's consolidate
+a use case. You know, let's</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/158-2
+00:01:01.088 --> 00:01:05.435
+<v Chris Yiu>everyone you know review the the
+links and the use case documents</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/134-0
+00:01:05.202 --> 00:01:06.362
+<v Haneen Bakbak>I think so, yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/158-3
+00:01:05.435 --> 00:01:09.322
+<v Chris Yiu>available from the Wat next DOT
+challenge. Get their cloud</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/158-4
+00:01:09.322 --> 00:01:13.471
+<v Chris Yiu>accounts hooked up so that it's
+using the Watson X account and</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/158-5
+00:01:13.471 --> 00:01:16.172
+<v Chris Yiu>then we can circle back. I I
+don't know.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/175-0
+00:01:18.332 --> 00:01:22.057
+<v Chris Yiu>A few days from now, let, let's
+say Friday, to be exactly. I'm</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/175-1
+00:01:22.057 --> 00:01:25.132
+<v Chris Yiu>just trying to create some
+transcription right now.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/213-0
+00:01:26.042 --> 00:01:30.368
+<v Haneen Bakbak>Yeah, I think I'm aligned with
+that before we like get started</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/213-1
+00:01:30.368 --> 00:01:34.556
+<v Haneen Bakbak>on anything. We just need to
+clean up the use case. But I we</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/213-2
+00:01:34.556 --> 00:01:38.950
+<v Haneen Bakbak>have a direction I think which
+is good. I think we have an idea</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/213-3
+00:01:38.950 --> 00:01:43.481
+<v Haneen Bakbak>of what we wanna do. Maybe I can
+like organise the thoughts a bit</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/213-4
+00:01:43.481 --> 00:01:43.962
+<v Haneen Bakbak>better.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/233-0
+00:01:45.362 --> 00:01:49.142
+<v Haneen Bakbak>Because I know not everyone even
+came to this meeting, so we'll</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/225-0
+00:01:48.102 --> 00:01:48.542
+<v Chris Yiu>Yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/233-1
+00:01:49.142 --> 00:01:51.682
+<v Haneen Bakbak>just make sure that all is OK
+with it and.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/254-0
+00:01:51.552 --> 00:01:57.234
+<v Chris Yiu>Yeah. And may I suggest can we
+set up like a a slack channel,</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/254-1
+00:01:57.234 --> 00:02:01.632
+<v Chris Yiu>so that afterwards you can share
+the recording?</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/257-0
+00:01:58.052 --> 00:02:03.052
+<v Haneen Bakbak>We have. Oh, are you not added
+to it? We have we have one.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/264-0
+00:02:03.532 --> 00:02:05.852
+<v Chris Yiu>Oh, OK. And what would that be?</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/273-0
+00:02:05.322 --> 00:02:07.874
+<v Haneen Bakbak>It's called what's the next
+challenge? Dream team? I think</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/263-0
+00:02:05.682 --> 00:02:05.802
+<v Jimmy Tang>And.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/273-1
+00:02:07.874 --> 00:02:09.042
+<v Haneen Bakbak>you're. Yeah, you're added.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/283-0
+00:02:09.252 --> 00:02:13.092
+<v Chris Yiu>OK, sorry I didn't check. Yes
+it's correct.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/297-0
+00:02:10.492 --> 00:02:15.943
+<v Haneen Bakbak>Is this Chris speaking? Yeah,
+yeah. Let me just. I just added</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/297-1
+00:02:15.943 --> 00:02:18.492
+<v Haneen Bakbak>you in it. Now, I don't know.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/307-0
+00:02:17.322 --> 00:02:21.138
+<v Jimmy Tang>I think Chris just got drunk by
+all this lectrion. Also, there's</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/307-1
+00:02:21.138 --> 00:02:21.842
+<v Jimmy Tang>maybe 162nd.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/306-0
+00:02:21.312 --> 00:02:22.152
+<v Haneen Bakbak>Whoopsie.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/320-0
+00:02:22.412 --> 00:02:25.612
+<v Chris Yiu>Oh, you can't imagine how many I
+have. It's insane.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/316-0
+00:02:23.062 --> 00:02:23.902
+<v Haneen Bakbak>Yeah, sorry.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/319-0
+00:02:25.192 --> 00:02:25.512
+<v Jimmy Tang>Ha ha ha.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/336-0
+00:02:26.972 --> 00:02:30.557
+<v Chris Yiu>Anyway, I I think maybe
+afterwards the teams recording</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/336-1
+00:02:30.557 --> 00:02:32.252
+<v Chris Yiu>and the transcript if you.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/353-0
+00:02:33.952 --> 00:02:36.795
+<v Chris Yiu>Just throw it on the slack, then
+at least we know what we're</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/353-1
+00:02:36.795 --> 00:02:38.752
+<v Chris Yiu>dealing with, right? In terms of
+formats.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/351-0
+00:02:37.382 --> 00:02:38.142
+<v Jimmy Tang>Do we have?</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/372-0
+00:02:39.172 --> 00:02:43.412
+<v Jimmy Tang>That enough, though. I mean the,
+the the contents, you know what</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/372-1
+00:02:43.412 --> 00:02:47.652
+<v Jimmy Tang>is it teams that we just started
+teams right? Do we have enough?</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/444-0
+00:02:48.402 --> 00:02:52.819
+<v Chris Yiu>No. Again, this is like a proof
+of concept that we want to show</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/378-0
+00:02:48.982 --> 00:02:49.742
+<v Jimmy Tang>Material.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/444-1
+00:02:52.819 --> 00:02:57.305
+<v Chris Yiu>and then subsequently if you're
+able to whip up X dot AI to, you</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/444-2
+00:02:57.305 --> 00:03:01.446
+<v Chris Yiu>know, tag it against millvis
+that has the recording and the</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/410-0
+00:03:01.332 --> 00:03:01.652
+<v Jimmy Tang>Yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/444-3
+00:03:01.446 --> 00:03:05.103
+<v Chris Yiu>transcript and you you shut
+granite and I've done it</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/444-4
+00:03:05.103 --> 00:03:09.451
+<v Chris Yiu>already, right? For for for my
+match 360 experiment. So I know</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/444-5
+00:03:09.451 --> 00:03:13.661
+<v Chris Yiu>it's gonna work and and you can
+even slap a UI using the the</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/436-0
+00:03:09.862 --> 00:03:11.142
+<v Jimmy Tang>OK, that's good.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/444-6
+00:03:13.661 --> 00:03:14.282
+<v Chris Yiu>headless.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/477-0
+00:03:15.762 --> 00:03:18.835
+<v Chris Yiu>Application development
+environment from IBM. You can</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/477-1
+00:03:18.835 --> 00:03:22.534
+<v Chris Yiu>put a beautiful UI and then you
+can ask you questions instead of</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/477-2
+00:03:22.534 --> 00:03:25.892
+<v Chris Yiu>doing it in the notebook right
+before. I think for a quick</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/477-3
+00:03:25.892 --> 00:03:29.307
+<v Chris Yiu>experimentation you can do that
+in the the XA notebook very</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/477-4
+00:03:29.307 --> 00:03:29.762
+<v Chris Yiu>quickly.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/497-0
+00:03:30.092 --> 00:03:32.769
+<v Jimmy Tang>You see, I I I knew it. You
+know, I know. It's great to have</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/483-0
+00:03:31.082 --> 00:03:31.602
+<v Chris Yiu>Then.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/497-1
+00:03:32.769 --> 00:03:35.621
+<v Jimmy Tang>Chris in our team, right? So he
+has done so much already, right?</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/497-2
+00:03:35.621 --> 00:03:35.972
+<v Jimmy Tang>So yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/516-0
+00:03:36.842 --> 00:03:42.682
+<v Haneen Bakbak>So also I think one thing I was
+wondering is like if we wanted</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/516-1
+00:03:42.682 --> 00:03:46.482
+<v Haneen Bakbak>to maybe specify exactly like
+what team?</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/554-0
+00:03:48.162 --> 00:03:53.092
+<v Haneen Bakbak>We would want this for like for
+example when I was talking about</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/554-1
+00:03:53.092 --> 00:03:57.643
+<v Haneen Bakbak>like my brainstorming ideas
+initially I was saying like for</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/554-2
+00:03:57.643 --> 00:04:02.194
+<v Haneen Bakbak>like the sales team I guess
+because the reason why I ask is</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/554-3
+00:04:02.194 --> 00:04:06.669
+<v Haneen Bakbak>maybe we could put in data
+pertaining to that team whether</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/554-4
+00:04:06.669 --> 00:04:07.882
+<v Haneen Bakbak>it's a glossary.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/636-0
+00:04:08.992 --> 00:04:12.432
+<v Haneen Bakbak>Whatever it may be, if it's just
+an account team thing, we could</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/636-1
+00:04:12.432 --> 00:04:15.819
+<v Haneen Bakbak>put information on that account
+and then that way it's like I'm</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/636-2
+00:04:15.819 --> 00:04:19.100
+<v Haneen Bakbak>not saying this is gonna be a
+perfect solution, but you know,</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/636-3
+00:04:19.100 --> 00:04:22.169
+<v Haneen Bakbak>it's gonna be an iterative
+thing. And as long as we have,</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/636-4
+00:04:22.169 --> 00:04:25.238
+<v Haneen Bakbak>like, a vision of where we wanna
+get to. But yeah, like a</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/636-5
+00:04:25.238 --> 00:04:27.937
+<v Haneen Bakbak>combination of. Yeah, the
+transcripts. And like, a</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/636-6
+00:04:27.937 --> 00:04:31.165
+<v Haneen Bakbak>glossary of terms. And if we're
+thinking about like, a sales</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/636-7
+00:04:31.165 --> 00:04:34.393
+<v Haneen Bakbak>cycle, like, what does it mean
+to be in, like, engage phase?</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/636-8
+00:04:34.393 --> 00:04:37.463
+<v Haneen Bakbak>What are like, what is the
+criteria there and what are we</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/636-9
+00:04:37.463 --> 00:04:40.744
+<v Haneen Bakbak>looking for and what are the
+next steps and then mapping that</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/636-10
+00:04:40.744 --> 00:04:43.072
+<v Haneen Bakbak>to also like the transcription
+that we get.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/637-0
+00:04:43.352 --> 00:04:43.712
+<v Haneen Bakbak>So.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/658-0
+00:04:44.512 --> 00:04:48.292
+<v Chris Yiu>Yeah. I I I would coin that as a
+phase two if I may in terms of</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/652-0
+00:04:46.942 --> 00:04:48.182
+<v Haneen Bakbak>OK. OK. OK.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/658-1
+00:04:48.292 --> 00:04:50.832
+<v Chris Yiu>because that that in my mind is
+more like.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/683-0
+00:04:52.432 --> 00:04:56.434
+<v Chris Yiu>Prompt tuning your LLM models to
+understand what a sales cycle as</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/683-1
+00:04:56.434 --> 00:04:59.889
+<v Chris Yiu>a concept is right, but
+out-of-the-box if you just jam a</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/683-2
+00:04:59.889 --> 00:05:02.072
+<v Chris Yiu>granite model. If you say you
+know.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/702-0
+00:05:03.652 --> 00:05:06.902
+<v Chris Yiu>If the transcript is already
+milled, this and it's hooked up,</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/702-1
+00:05:06.902 --> 00:05:09.732
+<v Chris Yiu>I can ask, you know, tell me,
+what are the next steps</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/702-2
+00:05:09.732 --> 00:05:11.252
+<v Chris Yiu>pertaining to the meeting on?</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/756-0
+00:05:12.472 --> 00:05:16.397
+<v Chris Yiu>July 9th or something, right? So
+assuming the transfer actually</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/756-1
+00:05:16.397 --> 00:05:20.383
+<v Chris Yiu>has July 9th, that's one of the
+the headers like yilvis or. I've</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/756-2
+00:05:20.383 --> 00:05:24.001
+<v Chris Yiu>been using chroma. I'm like
+where he understands that. OK,</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/756-3
+00:05:24.001 --> 00:05:27.251
+<v Chris Yiu>that's where you're gonna
+search. And then the grant</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/756-4
+00:05:27.251 --> 00:05:31.237
+<v Chris Yiu>model. Understand. You're trying
+to ask a question pertaining to</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/756-5
+00:05:31.237 --> 00:05:31.912
+<v Chris Yiu>next steps.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/782-0
+00:05:33.152 --> 00:05:37.328
+<v Chris Yiu>Without any tuning, it should be
+able to surface up something,</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/782-1
+00:05:37.328 --> 00:05:41.304
+<v Chris Yiu>right? So I think we we should
+we should just try that. And</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/780-0
+00:05:37.912 --> 00:05:41.112
+<v Haneen Bakbak>I I think so as well. I I agree
+with you, I think.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/782-2
+00:05:41.304 --> 00:05:42.232
+<v Chris Yiu>then the yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/803-0
+00:05:43.172 --> 00:05:46.308
+<v Haneen Bakbak>I I agree with you that like
+ideally it's probably gonna be</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/803-1
+00:05:46.308 --> 00:05:49.497
+<v Haneen Bakbak>prompt tuning or you know even
+like eventually this probably</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/803-2
+00:05:49.497 --> 00:05:52.372
+<v Haneen Bakbak>would need, I don't know, fine
+tuning, who knows, but.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/824-0
+00:05:53.892 --> 00:05:58.198
+<v Haneen Bakbak>I thought maybe and I'm not
+saying that like we'll have</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/824-1
+00:05:58.198 --> 00:06:02.582
+<v Haneen Bakbak>full. Would the just the
+transcriptions, it seems pretty</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/824-2
+00:06:02.582 --> 00:06:03.812
+<v Haneen Bakbak>straightforward.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/827-0
+00:06:05.132 --> 00:06:06.252
+<v Haneen Bakbak>But if like.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/910-0
+00:06:08.082 --> 00:06:12.135
+<v Haneen Bakbak>I feel like there might be also
+an opportunity and this is just</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/910-1
+00:06:12.135 --> 00:06:16.061
+<v Haneen Bakbak>if we have time like we don't
+have to, we can prompt engineer</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/910-2
+00:06:16.061 --> 00:06:19.860
+<v Haneen Bakbak>it to let's just say we have
+like like a description of the</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/910-3
+00:06:19.860 --> 00:06:23.723
+<v Haneen Bakbak>sales cycle or a description of
+terms we tell it while we're</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/910-4
+00:06:23.723 --> 00:06:27.712
+<v Haneen Bakbak>prompt engineering like in the
+prompt use this description and</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/910-5
+00:06:27.712 --> 00:06:31.511
+<v Haneen Bakbak>like it would it would need a
+little bit of finicking and I</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/910-6
+00:06:31.511 --> 00:06:35.627
+<v Haneen Bakbak>don't know how their results are
+gonna come out with just prompt</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/910-7
+00:06:35.627 --> 00:06:39.236
+<v Haneen Bakbak>engineering but I guess that's
+where I was like thinking</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/910-8
+00:06:39.236 --> 00:06:43.162
+<v Haneen Bakbak>initially but definitely like a
+phase two thing is the prompt</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/910-9
+00:06:43.162 --> 00:06:44.682
+<v Haneen Bakbak>tuning but I don't know.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/947-0
+00:06:43.862 --> 00:06:48.598
+<v Chris Yiu>Yeah, because I again, I I don't
+know how much time we have for</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/925-0
+00:06:47.292 --> 00:06:49.292
+<v Haneen Bakbak>Yeah. OK. Yeah, yeah, yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/947-1
+00:06:48.598 --> 00:06:53.334
+<v Chris Yiu>this thing. So I I want to avoid
+scope creep or whatnot, right.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/936-0
+00:06:52.752 --> 00:06:53.392
+<v Haneen Bakbak>Yeah, yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/947-2
+00:06:53.334 --> 00:06:57.700
+<v Chris Yiu>And and you know, I'm pretty
+sure everyone has the regular</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/947-3
+00:06:57.700 --> 00:06:58.662
+<v Chris Yiu>day jobs too.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/974-0
+00:06:59.092 --> 00:07:02.992
+<v Haneen Bakbak>No, no. Yeah, we all do. Yeah,
+that's fair. So let's start with</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/964-0
+00:07:01.152 --> 00:07:02.632
+<v Chris Yiu>So you know I, yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/974-1
+00:07:02.992 --> 00:07:06.647
+<v Haneen Bakbak>the transcription first thing,
+but maybe like in our vision</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/974-2
+00:07:06.647 --> 00:07:09.572
+<v Haneen Bakbak>deck or whatever, we're gonna
+present. I don't.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1058-0
+00:07:09.852 --> 00:07:13.953
+<v Chris Yiu>Oh, absolutely. Yeah. I think it
+will be, yeah. Because if if</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/983-0
+00:07:11.132 --> 00:07:12.252
+<v Haneen Bakbak>We'll we'll put that in.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1058-1
+00:07:13.953 --> 00:07:18.252
+<v Chris Yiu>you're, if the model's gonna be
+able to answer, you know, what's</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1058-2
+00:07:18.252 --> 00:07:22.419
+<v Chris Yiu>the best next action and what?
+What does that mean? Right. I'm</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1058-3
+00:07:22.419 --> 00:07:26.255
+<v Chris Yiu>like, you will have to do
+something in terms of tuning or</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1058-4
+00:07:26.255 --> 00:07:30.356
+<v Chris Yiu>or what not to the LL miss to
+understand what what next steps</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1058-5
+00:07:30.356 --> 00:07:34.060
+<v Chris Yiu>mean for each of the sales
+cycles. Right. I'm like, you</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1058-6
+00:07:34.060 --> 00:07:38.028
+<v Chris Yiu>know, from discovery to to to
+demo to propose on like these</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1058-7
+00:07:38.028 --> 00:07:41.997
+<v Chris Yiu>things are not just regular
+language. I'm like there's some</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1044-0
+00:07:38.142 --> 00:07:38.902
+<v Haneen Bakbak>Exactly.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1058-8
+00:07:41.997 --> 00:07:43.452
+<v Chris Yiu>context to it so that.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1071-0
+00:07:44.172 --> 00:07:47.918
+<v Chris Yiu>Will absolutely need some
+tweaking on the LLM, right? But</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1069-0
+00:07:47.722 --> 00:07:48.362
+<v Haneen Bakbak>Yeah. OK.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1071-1
+00:07:47.918 --> 00:07:49.532
+<v Chris Yiu>it doesn't need tweaking.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1116-0
+00:07:49.962 --> 00:07:53.734
+<v Chris Yiu>So much on the on the millvis on
+the vector data store. Well,</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1116-1
+00:07:53.734 --> 00:07:57.567
+<v Chris Yiu>yeah, you would argue you can.
+You can tweak the embeddings as</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1092-0
+00:07:55.552 --> 00:07:56.112
+<v Haneen Bakbak>Yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1116-2
+00:07:57.567 --> 00:08:01.522
+<v Chris Yiu>well, right? But I don't want to
+go there. I'm gonna go for this</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1116-3
+00:08:01.522 --> 00:08:04.442
+<v Chris Yiu>exercise. That that's like a
+full productizing.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1117-0
+00:08:01.922 --> 00:08:04.602
+<v Haneen Bakbak>Oh, I guess I haven't. Yeah,
+yeah, yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1126-0
+00:08:06.322 --> 00:08:08.202
+<v Chris Yiu>Yeah, because like, yeah, but.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1127-0
+00:08:07.182 --> 00:08:09.102
+<v Haneen Bakbak>Yeah, that's true. I didn't
+think of that.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1152-0
+00:08:09.642 --> 00:08:14.261
+<v Chris Yiu>Yeah. So there's this two entry
+points. One's the LLM that</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1152-1
+00:08:14.261 --> 00:08:19.272
+<v Chris Yiu>you're gonna use. And then the
+other part is the embedding set.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1149-0
+00:08:17.702 --> 00:08:18.302
+<v Haneen Bakbak>Embedding.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1152-2
+00:08:19.272 --> 00:08:22.482
+<v Chris Yiu>So that's gonna take a bit more
+kind of.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1153-0
+00:08:21.092 --> 00:08:21.612
+<v Haneen Bakbak>Work.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1173-0
+00:08:22.502 --> 00:08:26.367
+<v Chris Yiu>Work exactly. So if you don't
+have anything else to do, then</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1173-1
+00:08:26.367 --> 00:08:29.662
+<v Chris Yiu>you'll need to do that. But I am
+so jammed already.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1172-0
+00:08:28.452 --> 00:08:29.132
+<v Haneen Bakbak>Yeah, I.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1191-0
+00:08:30.652 --> 00:08:36.592
+<v Haneen Bakbak>No, I think we're good with this
+like initial, like stuck just to</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1191-1
+00:08:36.592 --> 00:08:38.212
+<v Haneen Bakbak>prove the concept.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1199-0
+00:08:38.642 --> 00:08:40.362
+<v Chris Yiu>Yeah, I think it will be.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1206-0
+00:08:39.672 --> 00:08:42.312
+<v Haneen Bakbak>But the overall idea is there.
+Yeah, I I like it.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1207-0
+00:08:41.522 --> 00:08:42.802
+<v Chris Yiu>Yeah, I think it'll be awesome.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1216-0
+00:08:44.132 --> 00:08:47.572
+<v Haneen Bakbak>Perfect. Perfect. OK. So I'll</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1211-0
+00:08:44.202 --> 00:08:44.682
+<v Chris Yiu>Alright.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1215-0
+00:08:46.422 --> 00:08:47.022
+<v Chris Yiu>That doesn't work.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1268-0
+00:08:49.112 --> 00:08:52.260
+<v Haneen Bakbak>I tagged you in the slack
+channel. I'll just maybe like</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1268-1
+00:08:52.260 --> 00:08:55.688
+<v Haneen Bakbak>give a synopsis of our idea.
+Just so the team has visibility</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1268-2
+00:08:55.688 --> 00:08:58.948
+<v Haneen Bakbak>and then in the meantime,
+everybody's just gonna like, do</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1268-3
+00:08:58.948 --> 00:09:02.320
+<v Haneen Bakbak>their homework on the challenge
+and and then we can go from</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1268-4
+00:09:02.320 --> 00:09:05.861
+<v Haneen Bakbak>there to get like a little bit
+more technical, I guess on like</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1257-0
+00:09:02.832 --> 00:09:02.992
+<v Chris Yiu>Yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1268-5
+00:09:05.861 --> 00:09:06.592
+<v Haneen Bakbak>action items.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1315-0
+00:09:07.212 --> 00:09:10.718
+<v Chris Yiu>Yeah. And I you know, I I think
+you know why. Well for the match</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1315-1
+00:09:10.718 --> 00:09:13.900
+<v Chris Yiu>360 thing that I've been doing
+on Vision road map stuff, I</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1315-2
+00:09:13.900 --> 00:09:17.298
+<v Chris Yiu>really have to code. I haven't
+had the chance to switch at the</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1315-3
+00:09:17.298 --> 00:09:20.696
+<v Chris Yiu>Melbourne yet. So I'll have to
+be a great exercise to do that.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1315-4
+00:09:20.696 --> 00:09:23.932
+<v Chris Yiu>So we're we're not starting from
+scratch, so it's all good.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1312-0
+00:09:21.162 --> 00:09:22.362
+<v Haneen Bakbak>Perfect. OK.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1320-0
+00:09:25.132 --> 00:09:27.092
+<v Haneen Bakbak>OK, amazing sounds good.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1328-0
+00:09:26.772 --> 00:09:29.372
+<v Chris Yiu>Alright, thanks. I I gotta jump
+on my.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1343-0
+00:09:27.532 --> 00:09:32.558
+<v Jimmy Tang>So we're gonna we we are gonna
+be in in the night tomorrow,</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1343-1
+00:09:32.558 --> 00:09:36.412
+<v Jimmy Tang>everybody, right. So maybe you
+can, you know.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1386-0
+00:09:36.122 --> 00:09:39.770
+<v Chris Yiu>Well, actually I'm flying out
+tonight. I'm. I'm going to</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1352-0
+00:09:38.872 --> 00:09:39.472
+<v Jimmy Tang>You are.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1386-1
+00:09:39.770 --> 00:09:43.482
+<v Chris Yiu>jersey, so yeah, I I have a
+client engagement moral, so I</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1360-0
+00:09:40.482 --> 00:09:41.442
+<v Jimmy Tang>Oh, OK.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1366-0
+00:09:43.062 --> 00:09:43.502
+<v Jimmy Tang>OK.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1386-2
+00:09:43.482 --> 00:09:47.258
+<v Chris Yiu>won't be able to make it. And
+then you guys know about the</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1386-3
+00:09:47.258 --> 00:09:50.778
+<v Chris Yiu>Friday and the Monday lap
+closure or network shut down</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1395-0
+00:09:49.892 --> 00:09:54.602
+<v Haneen Bakbak>Yeah. Then the network. Yeah. So
+I've heard. I heard it starts</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1386-4
+00:09:50.778 --> 00:09:51.162
+<v Chris Yiu>there.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1395-1
+00:09:54.602 --> 00:09:56.172
+<v Haneen Bakbak>tomorrow at 5:00, so.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1399-0
+00:09:55.912 --> 00:09:57.352
+<v Chris Yiu>Yep, exactly so.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1408-0
+00:09:56.162 --> 00:09:59.702
+<v Jimmy Tang>Oh, oh, Friday and Monday.
+They're off. I'm in the Denver.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1411-0
+00:09:58.662 --> 00:10:00.982
+<v Chris Yiu>Yeah. Yeah, so.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1408-1
+00:09:59.702 --> 00:10:00.122
+<v Jimmy Tang>Oh, OK.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1412-0
+00:10:00.452 --> 00:10:01.652
+<v Haneen Bakbak>That's 5:00 PM yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1414-0
+00:10:02.912 --> 00:10:03.192
+<v Jimmy Tang>OK.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1430-0
+00:10:03.272 --> 00:10:07.124
+<v Chris Yiu>So if you guys go to York then,
+but if you're planning to go to</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1430-1
+00:10:07.124 --> 00:10:09.472
+<v Chris Yiu>the lab, pick no Friday, Monday,
+it's.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1434-0
+00:10:08.682 --> 00:10:10.922
+<v Jimmy Tang>No, that's the sko tomorrow,
+right? So.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1439-0
+00:10:10.512 --> 00:10:13.472
+<v Haneen Bakbak>Yeah. So we'll be there.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1443-0
+00:10:11.722 --> 00:10:14.602
+<v Chris Yiu>Oh, I feel, oh, I won't be
+there.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1463-0
+00:10:16.822 --> 00:10:21.283
+<v Chris Yiu>Oh, let let's yeah. No, it's
+good stuff. For for for you</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1449-0
+00:10:17.382 --> 00:10:18.462
+<v Haneen Bakbak>We all have to go.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1452-0
+00:10:18.922 --> 00:10:19.442
+<v Jimmy Tang>Yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1463-1
+00:10:21.283 --> 00:10:22.222
+<v Chris Yiu>guys, right?</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1467-0
+00:10:21.342 --> 00:10:24.262
+<v Jimmy Tang>We're mandated to go as far as I
+understand.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1479-0
+00:10:24.442 --> 00:10:27.654
+<v Haneen Bakbak>Yeah, we are. We, we need to go.
+Apparently it doesn't. Yeah, we</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1479-1
+00:10:27.654 --> 00:10:28.642
+<v Haneen Bakbak>shouldn't not go so.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1485-0
+00:10:29.582 --> 00:10:31.342
+<v Jimmy Tang>OK, alright. OK.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1494-0
+00:10:30.892 --> 00:10:34.506
+<v Chris Yiu>Alright, well, I'll let you guys
+sync and we'll we'll communicate</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1494-1
+00:10:34.506 --> 00:10:35.492
+<v Chris Yiu>through slack and.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1493-0
+00:10:35.502 --> 00:10:35.902
+<v Haneen Bakbak>OK.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1498-0
+00:10:38.142 --> 00:10:40.142
+<v Chris Yiu>Is that how I pronounce your
+name? Sorry.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1502-0
+00:10:39.882 --> 00:10:41.602
+<v Haneen Bakbak>Yeah, honey. Yeah, yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1521-0
+00:10:40.812 --> 00:10:44.215
+<v Chris Yiu>OK. Yeah. So once you get the
+recording and the transcript,</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1521-1
+00:10:44.215 --> 00:10:47.732
+<v Chris Yiu>just just pop on Slack, I think
+that'll be it. Super helpful.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1542-0
+00:10:47.382 --> 00:10:51.581
+<v Jimmy Tang>No, by the way, Crystal Helene
+is in our team, right? So we are</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1542-1
+00:10:51.581 --> 00:10:54.862
+<v Jimmy Tang>in the signature Presale's team
+under Bahari, so.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1547-0
+00:10:55.412 --> 00:10:56.532
+<v Chris Yiu>Oh, that's fun.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1567-0
+00:10:56.422 --> 00:11:01.805
+<v Jimmy Tang>I mean, yeah is. Yeah, she's
+textiles on the wasn't AI. Right</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1551-0
+00:10:57.082 --> 00:10:57.682
+<v Haneen Bakbak>Yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1567-1
+00:11:01.805 --> 00:11:04.062
+<v Jimmy Tang>and govern space. So yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1564-0
+00:11:02.432 --> 00:11:02.832
+<v Haneen Bakbak>Yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1579-0
+00:11:04.672 --> 00:11:09.112
+<v Haneen Bakbak>The AI apps and Watson X like
+platform like Watson X dot AI.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1571-0
+00:11:04.912 --> 00:11:05.472
+<v Chris Yiu>OK.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1583-0
+00:11:09.392 --> 00:11:10.552
+<v Jimmy Tang>Yeah. So.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1594-0
+00:11:10.182 --> 00:11:13.422
+<v Chris Yiu>Well, nice. Nice to meet you. I
+used to be with Dan was.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1593-0
+00:11:12.562 --> 00:11:13.362
+<v Haneen Bakbak>Likewise.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1600-0
+00:11:13.652 --> 00:11:14.212
+<v Jimmy Tang>Yeah.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1621-0
+00:11:15.062 --> 00:11:20.142
+<v Haneen Bakbak>Likewise. Yeah. Oh, oh, my gosh.
+Now you're on product.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1609-0
+00:11:15.102 --> 00:11:17.022
+<v Chris Yiu>Well, I'm. I'm so part of that
+being why I still consider.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1612-0
+00:11:16.472 --> 00:11:18.112
+<v Jimmy Tang>This used to be in our team so
+OK, so.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1625-0
+00:11:19.692 --> 00:11:22.092
+<v Jimmy Tang>But he he jump ship to report
+the managers off.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1640-0
+00:11:22.692 --> 00:11:27.052
+<v Haneen Bakbak>I got it. I got it. I do. OK,
+thanks everyone.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1632-0
+00:11:23.572 --> 00:11:24.372
+<v Jimmy Tang>OK, alright.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1644-0
+00:11:25.672 --> 00:11:27.912
+<v Chris Yiu>Alright, I gotta jump. Talk to
+you guys later. Cheers.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1648-0
+00:11:27.072 --> 00:11:29.072
+<v Jimmy Tang>OK. OK. See you. Bye.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1650-0
+00:11:28.302 --> 00:11:29.662
+<v Haneen Bakbak>Hi everyone. Bye.</v>
+
+1efde017-7f19-43e7-a209-eb10531b4a45/1656-0
+00:11:28.962 --> 00:11:30.562
+<v Vince Lo>Alright, cool bye.</v>
